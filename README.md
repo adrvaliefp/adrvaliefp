@@ -1,5 +1,6 @@
-# 🚀 CET – Programming and Information Systems
-
+<p align="center">
+  <img src="banner.png" alt="CET Programming Systems Banner">
+</p>
 <div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/username/repository?style=for-the-badge)
