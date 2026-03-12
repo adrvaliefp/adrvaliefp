@@ -7,59 +7,60 @@ Hi 👋 I'm Adriano Valente
 </h1>
 
 <h3 align="center">
-Programming Systems Student | Problem Solver | Tech Enthusiast
+Developer focused on simplifying systems and building efficient solutions
 </h3>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 About Me
 
 I simplify complexity.
 
 With a hands-on background in **Information Technology and Quality Assurance**, I focus on transforming inefficient processes into **clear, scalable and sustainable solutions**.
 
-I research, analyze and dig deep until I find the right answer.
+I research deeply until I find the real problem and then build the **simplest and most reliable solution possible**.
 
-For me, challenges aren't obstacles —  
-they are **opportunities to optimize systems and help others**.
+✔ Analytical mindset  
+✔ Hands-on problem solver  
+✔ Continuous improvement mindset  
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Journey
 
 🎓 CET – Programming Systems  
 💻 Software Development  
 🌐 Web Development  
-🗄 Databases  
 📱 Mobile Development  
+🗄 Database Systems  
 
 ---
 
-# 🧠 Tech Stack
+# ⚙ Tech Stack
 
-### Programming
+## Programming
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 
-### Web
+## Web
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-### Databases
+## Databases
 
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### Tools
+## Tools
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -75,25 +76,50 @@ they are **opportunities to optimize systems and help others**.
 
 ---
 
-# 📚 Current Learning
+# 📈 Most Used Languages
 
-- Algorithms
-- Structured Programming
-- Object Oriented Programming
-- Databases
-- Web Development
-- System Integration
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrvaliefp&layout=compact&theme=tokyonight">
+
+</p>
 
 ---
 
-# 🌍 Connect with Me
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 🧩 Current Focus
+
+- Algorithms & Data Structures
+- Software Architecture
+- Full Stack Development
+- System Integration
+- Scalable Systems
+
+---
+
+# 🌍 Connect With Me
 
 LinkedIn  
-Portfolio  
 GitHub  
+Portfolio  
 
 ---
 
-⭐ Always learning  
-⚙ Always building  
-🚀 Always improving
+# ⚡ Developer Philosophy
+
+> Simplicity is the ultimate sophistication.
+
+Complex systems should **feel simple to use and easy to maintain**.
+
+---
+
+⭐ If you like my projects, consider giving them a star.
