@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="banner.png" alt="CET Programming Systems Banner">
+  <img src="banner.png" width="100%">
+</p>
+
+<h1 align="center">
+CET – Programming and Information Systems
+</h1>
+
+<p align="center">
+Portfolio of projects developed during the CET course
 </p>
 <div align="center">
 
